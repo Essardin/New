@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmELKiwAjlkqIG6Zr+n1/tQAAAAACAAAAAAAQZgAAAAEAACAAAACgAaOyw6HSLa6e8Gk/fRvEade1lrFNnYLam0uxbv7H4gAAAAAOgAAAAAIAACAAAAA0ZOtYKAEqpf94OJweFe7thNBPOMTOUGPPmYvNKG/f1SAAAACLfHn5Zilg64Bixm2c9UB1aVkRrkAKTeDu1mmdRP5Qw0AAAABvgqGSyUZBTNy8yqHAzFZTDF/ZmeBS2zV4A3w6c38WpaoFhwdQWrEK1UbjpUhznW7JMt9sXh26zkXaE+h78zjY</EncryptedPassword>
+    <History>False|2024-12-14T15:14:04.8518776Z||;False|2024-12-14T15:45:49.4055009+05:30||;False|2024-12-14T15:42:44.3986023+05:30||;False|2024-12-14T15:32:28.5201649+05:30||;False|2024-12-14T15:25:09.6736767+05:30||;False|2024-12-14T15:20:12.9020841+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AuthDbConnection">
+      <Value>Server=db11417.public.databaseasp.net%3b Database=db11417%3b User Id=db11417%3b Password=x%408E9J#iz=6G%3b Encrypt=True%3b TrustServerCertificate=True%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="MainDbConnection">
+      <Value>Server=db11416.public.databaseasp.net%3b Database=db11416%3b User Id=db11416%3b Password=3Dh#%252Lm9Nc%40%3b Encrypt=True%3b TrustServerCertificate=True%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="RobocopsWebAPI.Data.AuthDbContext">
+      <Value>Server=db11417.public.databaseasp.net%3b Database=db11417%3b User Id=db11417%3b Password=x%408E9J#iz=6G%3b Encrypt=True%3b TrustServerCertificate=True%3b MultipleActiveResultSets=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="RobocopsWebAPI.Data.MainDbContext">
+      <Value>Server=db11416.public.databaseasp.net%3b Database=db11416%3b User Id=db11416%3b Password=3Dh#%252Lm9Nc%40%3b Encrypt=True%3b TrustServerCertificate=True%3b MultipleActiveResultSets=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

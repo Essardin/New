@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASMA\\Desktop\\Web APIs\\RobocopsWebAPI\\RobocopsWebAPI\\RobocopsWebAPI.csproj": {}
+    "C:\\Users\\ASMA\\Desktop\\Robo Web API\\RobocopsWebAPI\\RobocopsWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASMA\\Desktop\\Web APIs\\RobocopsWebAPI\\RobocopsWebAPI\\RobocopsWebAPI.csproj": {
+    "C:\\Users\\ASMA\\Desktop\\Robo Web API\\RobocopsWebAPI\\RobocopsWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASMA\\Desktop\\Web APIs\\RobocopsWebAPI\\RobocopsWebAPI\\RobocopsWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ASMA\\Desktop\\Robo Web API\\RobocopsWebAPI\\RobocopsWebAPI.csproj",
         "projectName": "RobocopsWebAPI",
-        "projectPath": "C:\\Users\\ASMA\\Desktop\\Web APIs\\RobocopsWebAPI\\RobocopsWebAPI\\RobocopsWebAPI.csproj",
+        "projectPath": "C:\\Users\\ASMA\\Desktop\\Robo Web API\\RobocopsWebAPI\\RobocopsWebAPI.csproj",
         "packagesPath": "C:\\Users\\ASMA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASMA\\Desktop\\Web APIs\\RobocopsWebAPI\\RobocopsWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\ASMA\\Desktop\\Robo Web API\\RobocopsWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASMA\\AppData\\Roaming\\NuGet\\NuGet.Config",

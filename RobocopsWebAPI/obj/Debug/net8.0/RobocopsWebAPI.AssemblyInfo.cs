@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobocopsWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bec5edce4c381dfa667ab4270f6e056d2cb21666")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9b3f3be11bfb22933f8ff3e92907085868d1cd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobocopsWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobocopsWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
